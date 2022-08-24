@@ -1,0 +1,137 @@
+Added Component: Designator=C1(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=Driver do Motor Direito(HDR2X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Driver do Motor Esquerdo(HDR2X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Microcontrolador(MODULE_A000005)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "A000005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Motor Direito(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Motor Esquerdo(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Regulador(TO220)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM7805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Sensor Ultrassônico(XCVR_HC-SR04)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HC-SR04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Sensor Óptico Reflexivo Frontal(OPTO_TCRT5000)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TCRT5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Sensor Óptico Reflexivo Traseiro(OPTO_TCRT5000)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TCRT5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=5V Pin=Microcontrolador-27
+Added Pin To Net: NetName=5V Pin=Regulador-3
+Added Pin To Net: NetName=5V Pin=Sensor Óptico Reflexivo Frontal-A
+Added Pin To Net: NetName=5V Pin=Sensor Óptico Reflexivo Traseiro-A
+Added Net: Name=5V
+Added Pin To Net: NetName=DRV Direito 1 Pin=Driver do Motor Direito-3
+Added Pin To Net: NetName=DRV Direito 1 Pin=Microcontrolador-10
+Added Net: Name=DRV Direito 1
+Added Pin To Net: NetName=DRV Direito 2 Pin=Driver do Motor Direito-5
+Added Pin To Net: NetName=DRV Direito 2 Pin=Microcontrolador-11
+Added Net: Name=DRV Direito 2
+Added Pin To Net: NetName=DRV Esquerdo 1 Pin=Driver do Motor Esquerdo-3
+Added Pin To Net: NetName=DRV Esquerdo 1 Pin=Microcontrolador-12
+Added Net: Name=DRV Esquerdo 1
+Added Pin To Net: NetName=DRV Esquerdo 2 Pin=Driver do Motor Esquerdo-5
+Added Pin To Net: NetName=DRV Esquerdo 2 Pin=Microcontrolador-13
+Added Net: Name=DRV Esquerdo 2
+Added Pin To Net: NetName=Echo Pin=Microcontrolador-15
+Added Pin To Net: NetName=Echo Pin=Sensor Ultrassônico-3
+Added Net: Name=Echo
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=Driver do Motor Direito-2
+Added Pin To Net: NetName=GND Pin=Driver do Motor Esquerdo-2
+Added Pin To Net: NetName=GND Pin=Microcontrolador-4
+Added Pin To Net: NetName=GND Pin=Regulador-2
+Added Pin To Net: NetName=GND Pin=Sensor Ultrassônico-4
+Added Pin To Net: NetName=GND Pin=Sensor Óptico Reflexivo Frontal-CATH
+Added Pin To Net: NetName=GND Pin=Sensor Óptico Reflexivo Traseiro-CATH
+Added Net: Name=GND
+Added Pin To Net: NetName=Motor Direito 1 Pin=Driver do Motor Direito-4
+Added Pin To Net: NetName=Motor Direito 1 Pin=Motor Direito-1
+Added Net: Name=Motor Direito 1
+Added Pin To Net: NetName=Motor Direito 2 Pin=Driver do Motor Direito-6
+Added Pin To Net: NetName=Motor Direito 2 Pin=Motor Direito-2
+Added Net: Name=Motor Direito 2
+Added Pin To Net: NetName=Motor Esquerdo 1 Pin=Driver do Motor Esquerdo-4
+Added Pin To Net: NetName=Motor Esquerdo 1 Pin=Motor Esquerdo-1
+Added Net: Name=Motor Esquerdo 1
+Added Pin To Net: NetName=Motor Esquerdo 2 Pin=Driver do Motor Esquerdo-6
+Added Pin To Net: NetName=Motor Esquerdo 2 Pin=Motor Esquerdo-2
+Added Net: Name=Motor Esquerdo 2
+Added Pin To Net: NetName=SORF Collect Pin=Microcontrolador-6
+Added Pin To Net: NetName=SORF Collect Pin=Sensor Óptico Reflexivo Frontal-COLL
+Added Net: Name=SORF Collect
+Added Pin To Net: NetName=SORF Emission Pin=Microcontrolador-7
+Added Pin To Net: NetName=SORF Emission Pin=Sensor Óptico Reflexivo Frontal-E
+Added Net: Name=SORF Emission
+Added Pin To Net: NetName=SORT Collect Pin=Microcontrolador-8
+Added Pin To Net: NetName=SORT Collect Pin=Sensor Óptico Reflexivo Traseiro-COLL
+Added Net: Name=SORT Collect
+Added Pin To Net: NetName=SORT Emission Pin=Microcontrolador-9
+Added Pin To Net: NetName=SORT Emission Pin=Sensor Óptico Reflexivo Traseiro-E
+Added Net: Name=SORT Emission
+Added Pin To Net: NetName=Trigger Pin=Microcontrolador-14
+Added Pin To Net: NetName=Trigger Pin=Sensor Ultrassônico-2
+Added Net: Name=Trigger
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=Driver do Motor Direito-1
+Added Pin To Net: NetName=VCC Pin=Driver do Motor Esquerdo-1
+Added Pin To Net: NetName=VCC Pin=Regulador-1
+Added Pin To Net: NetName=VCC Pin=Sensor Ultrassônico-1
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
